@@ -15,3 +15,8 @@
 Untuk Flowchart nya bisa dilihat pada gambar di bawah ini :
 
 ![gamabar1](picture/pic1.jpg)
+
+
+Berikut adalah contoh outputnya :
+
+![gambar2](picture/pic2.png)
