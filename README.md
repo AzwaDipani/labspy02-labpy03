@@ -47,7 +47,7 @@ Berikut adalah hasilnya :
 
 ![gambar3](picture/pic3.png)
 
-### menampilkan bilangan terbesar dari n buah data yang diinputkan.Masukkan angka 0 untuk berhenti.
+## menampilkan bilangan terbesar dari n buah data yang diinputkan.Masukkan angka 0 untuk berhenti.
 
 1. Mulai
 
@@ -69,7 +69,7 @@ Berikut adalah hasilnya :
 
 [gambar4](picture/pic4.png)
 
-#### Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+## Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
 
 ==> Urutan Pembuatan Program
 
