@@ -68,7 +68,7 @@ Berikut adalah hasilnya :
 
 Berikut adalah hasilnya :
 
-[gambar4](picture/pic4.png)
+![gambar4](picture/pic4.png)
 
 ## Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
 
