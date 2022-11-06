@@ -1,4 +1,5 @@
-# Algoritma Menentukan Nilai Terbesar Dari 3 Buah Bilangan
+# labspy02-
+## Algoritma Menentukan Nilai Terbesar Dari 3 Buah Bilangan
 
 1. Mulai
 2. Inisiasi bil1,bil2,bil3 sebagai integer.
@@ -21,7 +22,7 @@ Berikut adalah contoh outputnya :
 
 ![gambar2](picture/pic2.png)
 
-
+# labspy03
 ## Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 ==> Urutan Pembuatan Program
 
